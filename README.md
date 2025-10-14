@@ -3,7 +3,7 @@
   Neverglade
 </h3>
 
-<p align="center"><i>Calm colors for focused work.</i></p>
+<p align="center"><i>Soothing colors for focused work.</i></p>
 
 Neverglade is a calming, low-contrast colour scheme for focused work. It contains 22 colours coming in 3 flavours — Ebony, Oak, and Birch. 
 
